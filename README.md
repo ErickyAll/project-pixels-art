@@ -11,6 +11,8 @@ Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto à partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
 ---
+## Link do Meu Projeto - ErickyAll
+- [Pixel Board](https://erickyall.github.io/project-pixels-art/)
 
 ## Sumário
 
